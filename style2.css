@@ -1,0 +1,21 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 5em;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  box-sizing: content-box; 
+  height: 1; 
+  overflow: visible; 
+}
+
+li {
+  line-height: 2em;
+}
